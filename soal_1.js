@@ -14,3 +14,5 @@ for (let i = 0; i < d.length; i++) {
 for (let e in b) {
   console.log(e + ": " + b[e])
 }
+
+//uji coba update data
